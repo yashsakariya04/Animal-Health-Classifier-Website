@@ -1,0 +1,868 @@
+AnimalName,BloodBrainDisease,AppearenceDisease,GeneralDisease,LungDisease,AbdominalDisease,HealthStatus
+Pig,seizures,ruffled feathers,loss of appetite,halitosis,ulcers,Stable
+Lion,seizures,alopecia,loss of appetite,halitosis,fetopelvic disproportion,Critical
+Duck,wasting,emaciation,loss of appetite,nasal discharge,diarrhea,Recovered
+Buffaloes,hemorrhage,swelling,loss of appetite,halitosis,diarrhea,Stable
+Duck,convulsions,hairloss,pains,nasal discharge,colic,Critical
+Horse,hemorrhage,ruffled feathers,pains,pneumonia,uteria inertia,Stable
+Goat,convulsions,swelling,fatigue,pneumonia,uteria inertia,Recovered
+Dog,convulsions,emaciation,weakness,dyspnea,colic,Critical
+Parrot,hemorrhage,swelling,weakness,difficulty in breathing,colic,Critical
+Lion,seizures,scabs,weakness,difficulty in breathing,fetopelvic disproportion,Stable
+Rabbit,anemia,alopecia,pains,pneumonia,uteria inertia,Recovered
+Parrot,convulsions,swelling,fatigue,nasal discharge,diarrhea,Stable
+Pig,hemorrhage,scabs,loss of appetite,pneumonia,colic,Stable
+Lion,wasting,emaciation,loss of appetite,dyspnea,uteria inertia,Critical
+Cow,jaundice,ruffled feathers,weakness,halitosis,colic,Recovered
+Goat,anemia,alopecia,fever,dyspnea,diarrhea,Stable
+Dog,jaundice,scabs,fever,pneumonia,ulcers,Critical
+Cow,wasting,emaciation,fever,dyspnea,diarrhea,Stable
+Buffaloes,convulsions,emaciation,weakness,pneumonia,ulcers,Stable
+Buffaloes,hemorrhage,hairloss,pains,dyspnea,fetopelvic disproportion,Stable
+Dog,seizures,swelling,loss of appetite,difficulty in breathing,uteria inertia,Critical
+Cat,jaundice,hairloss,pains,dyspnea,fetopelvic disproportion,Recovered
+Lion,hemorrhage,alopecia,loss of appetite,nasal discharge,fetopelvic disproportion,Critical
+Parrot,seizures,swelling,fatigue,pneumonia,fetopelvic disproportion,Critical
+Parrot,hemorrhage,swelling,fatigue,halitosis,ulcers,Critical
+Duck,anemia,emaciation,weakness,pneumonia,uteria inertia,Critical
+Buffaloes,hemorrhage,emaciation,fatigue,nasal discharge,diarrhea,Stable
+Horse,jaundice,hairloss,fatigue,halitosis,fetopelvic disproportion,Critical
+Elephant,jaundice,emaciation,weakness,dyspnea,fetopelvic disproportion,Recovered
+Goat,anemia,emaciation,fatigue,pneumonia,fetopelvic disproportion,Recovered
+Parrot,wasting,ruffled feathers,pains,dyspnea,fetopelvic disproportion,Stable
+Cow,wasting,emaciation,pains,difficulty in breathing,ulcers,Stable
+Cat,convulsions,emaciation,weakness,halitosis,ulcers,Stable
+Cat,jaundice,ruffled feathers,pains,halitosis,colic,Stable
+Parrot,anemia,hairloss,loss of appetite,halitosis,ulcers,Critical
+Horse,anemia,swelling,weakness,dyspnea,uteria inertia,Stable
+Sheep,hemorrhage,emaciation,fever,difficulty in breathing,ulcers,Stable
+Horse,hemorrhage,scabs,fatigue,nasal discharge,diarrhea,Critical
+Sheep,wasting,scabs,fever,halitosis,uteria inertia,Stable
+Buffaloes,wasting,hairloss,loss of appetite,pneumonia,diarrhea,Stable
+Parrot,seizures,hairloss,loss of appetite,difficulty in breathing,colic,Critical
+Buffaloes,convulsions,alopecia,fatigue,difficulty in breathing,uteria inertia,Recovered
+Dog,anemia,swelling,fatigue,dyspnea,diarrhea,Stable
+Buffaloes,seizures,ruffled feathers,weakness,nasal discharge,uteria inertia,Critical
+Elephant,anemia,hairloss,loss of appetite,pneumonia,ulcers,Stable
+Duck,jaundice,hairloss,fever,nasal discharge,colic,Critical
+Elephant,hemorrhage,emaciation,loss of appetite,pneumonia,diarrhea,Recovered
+Sheep,seizures,hairloss,pains,pneumonia,diarrhea,Stable
+Duck,anemia,ruffled feathers,weakness,nasal discharge,uteria inertia,Recovered
+Duck,wasting,scabs,fever,difficulty in breathing,ulcers,Recovered
+Cow,anemia,swelling,loss of appetite,dyspnea,diarrhea,Recovered
+Dog,convulsions,hairloss,pains,difficulty in breathing,fetopelvic disproportion,Stable
+Cat,hemorrhage,emaciation,weakness,nasal discharge,fetopelvic disproportion,Stable
+Cow,jaundice,swelling,pains,difficulty in breathing,uteria inertia,Critical
+Pig,convulsions,ruffled feathers,fever,difficulty in breathing,fetopelvic disproportion,Recovered
+Pig,anemia,swelling,pains,pneumonia,ulcers,Critical
+Goat,wasting,scabs,fatigue,pneumonia,ulcers,Critical
+Parrot,wasting,emaciation,loss of appetite,halitosis,ulcers,Critical
+Horse,jaundice,swelling,pains,dyspnea,colic,Critical
+Cow,jaundice,scabs,fatigue,nasal discharge,colic,Stable
+Rabbit,convulsions,scabs,pains,difficulty in breathing,uteria inertia,Recovered
+Rabbit,seizures,alopecia,fever,pneumonia,ulcers,Stable
+Sheep,seizures,swelling,weakness,halitosis,colic,Stable
+Cat,seizures,ruffled feathers,loss of appetite,pneumonia,ulcers,Recovered
+Dog,jaundice,swelling,weakness,dyspnea,ulcers,Critical
+Cat,anemia,swelling,fever,halitosis,uteria inertia,Critical
+Parrot,wasting,alopecia,loss of appetite,pneumonia,diarrhea,Critical
+Duck,convulsions,swelling,weakness,halitosis,colic,Recovered
+Rabbit,convulsions,hairloss,fever,dyspnea,fetopelvic disproportion,Critical
+Goat,convulsions,hairloss,fever,halitosis,diarrhea,Recovered
+Rabbit,wasting,swelling,loss of appetite,dyspnea,fetopelvic disproportion,Critical
+Cow,jaundice,ruffled feathers,pains,difficulty in breathing,fetopelvic disproportion,Recovered
+Cat,jaundice,swelling,fatigue,difficulty in breathing,colic,Critical
+Parrot,seizures,emaciation,loss of appetite,dyspnea,diarrhea,Critical
+Lion,convulsions,swelling,loss of appetite,halitosis,fetopelvic disproportion,Stable
+Goat,jaundice,swelling,fever,halitosis,colic,Recovered
+Goat,jaundice,alopecia,pains,pneumonia,colic,Critical
+Parrot,anemia,ruffled feathers,fatigue,dyspnea,fetopelvic disproportion,Critical
+Buffaloes,seizures,swelling,loss of appetite,difficulty in breathing,uteria inertia,Stable
+Dog,seizures,hairloss,weakness,pneumonia,fetopelvic disproportion,Recovered
+Cow,convulsions,swelling,loss of appetite,halitosis,fetopelvic disproportion,Critical
+Cat,anemia,emaciation,fatigue,halitosis,ulcers,Recovered
+Cow,hemorrhage,alopecia,weakness,pneumonia,colic,Stable
+Pig,jaundice,scabs,weakness,difficulty in breathing,fetopelvic disproportion,Critical
+Rabbit,hemorrhage,emaciation,weakness,pneumonia,diarrhea,Recovered
+Parrot,anemia,ruffled feathers,fatigue,nasal discharge,ulcers,Critical
+Duck,convulsions,ruffled feathers,weakness,pneumonia,diarrhea,Recovered
+Elephant,seizures,ruffled feathers,loss of appetite,pneumonia,ulcers,Recovered
+Elephant,jaundice,hairloss,fever,dyspnea,fetopelvic disproportion,Recovered
+Duck,seizures,ruffled feathers,fever,nasal discharge,colic,Critical
+Buffaloes,hemorrhage,swelling,fatigue,difficulty in breathing,colic,Recovered
+Parrot,convulsions,emaciation,loss of appetite,nasal discharge,colic,Stable
+Parrot,seizures,hairloss,weakness,difficulty in breathing,colic,Recovered
+Rabbit,seizures,alopecia,weakness,difficulty in breathing,colic,Critical
+Parrot,convulsions,scabs,loss of appetite,halitosis,uteria inertia,Stable
+Rabbit,convulsions,scabs,loss of appetite,halitosis,ulcers,Stable
+Cat,hemorrhage,emaciation,fatigue,nasal discharge,ulcers,Recovered
+Cow,convulsions,alopecia,fever,nasal discharge,ulcers,Critical
+Duck,jaundice,hairloss,pains,halitosis,uteria inertia,Recovered
+Cat,hemorrhage,ruffled feathers,fatigue,dyspnea,uteria inertia,Recovered
+Cat,hemorrhage,hairloss,fatigue,difficulty in breathing,ulcers,Recovered
+Goat,jaundice,ruffled feathers,loss of appetite,difficulty in breathing,colic,Critical
+Cow,wasting,ruffled feathers,fatigue,pneumonia,fetopelvic disproportion,Stable
+Rabbit,jaundice,scabs,fatigue,nasal discharge,ulcers,Critical
+Rabbit,jaundice,emaciation,pains,halitosis,colic,Recovered
+Duck,hemorrhage,alopecia,loss of appetite,dyspnea,diarrhea,Stable
+Sheep,anemia,scabs,fever,halitosis,colic,Recovered
+Lion,seizures,scabs,loss of appetite,halitosis,diarrhea,Critical
+Buffaloes,hemorrhage,alopecia,fatigue,nasal discharge,ulcers,Stable
+Rabbit,hemorrhage,hairloss,loss of appetite,nasal discharge,uteria inertia,Critical
+Rabbit,wasting,swelling,loss of appetite,halitosis,ulcers,Stable
+Pig,wasting,emaciation,loss of appetite,pneumonia,diarrhea,Critical
+Lion,wasting,alopecia,pains,nasal discharge,ulcers,Critical
+Duck,wasting,ruffled feathers,loss of appetite,difficulty in breathing,ulcers,Critical
+Lion,anemia,emaciation,pains,nasal discharge,fetopelvic disproportion,Critical
+Dog,hemorrhage,ruffled feathers,fever,difficulty in breathing,diarrhea,Stable
+Buffaloes,seizures,emaciation,weakness,dyspnea,ulcers,Stable
+Dog,jaundice,swelling,fever,dyspnea,ulcers,Recovered
+Horse,jaundice,swelling,fever,halitosis,uteria inertia,Recovered
+Rabbit,anemia,ruffled feathers,weakness,halitosis,ulcers,Critical
+Horse,hemorrhage,ruffled feathers,pains,dyspnea,ulcers,Stable
+Horse,wasting,swelling,pains,pneumonia,diarrhea,Recovered
+Buffaloes,convulsions,swelling,loss of appetite,difficulty in breathing,diarrhea,Critical
+Horse,wasting,swelling,pains,halitosis,ulcers,Stable
+Buffaloes,hemorrhage,hairloss,fever,difficulty in breathing,uteria inertia,Critical
+Buffaloes,hemorrhage,ruffled feathers,pains,dyspnea,uteria inertia,Stable
+Elephant,convulsions,hairloss,pains,nasal discharge,uteria inertia,Stable
+Pig,hemorrhage,ruffled feathers,pains,pneumonia,fetopelvic disproportion,Recovered
+Goat,wasting,swelling,weakness,dyspnea,diarrhea,Recovered
+Goat,wasting,alopecia,loss of appetite,halitosis,ulcers,Critical
+Cow,hemorrhage,scabs,weakness,pneumonia,fetopelvic disproportion,Recovered
+Goat,convulsions,emaciation,pains,dyspnea,uteria inertia,Critical
+Duck,seizures,alopecia,pains,pneumonia,colic,Recovered
+Buffaloes,hemorrhage,emaciation,fever,difficulty in breathing,diarrhea,Stable
+Sheep,wasting,ruffled feathers,pains,nasal discharge,colic,Stable
+Cow,hemorrhage,alopecia,pains,nasal discharge,colic,Recovered
+Goat,jaundice,emaciation,pains,difficulty in breathing,uteria inertia,Recovered
+Goat,wasting,scabs,fever,pneumonia,fetopelvic disproportion,Stable
+Parrot,seizures,ruffled feathers,pains,dyspnea,uteria inertia,Stable
+Buffaloes,wasting,hairloss,fever,pneumonia,ulcers,Recovered
+Sheep,hemorrhage,scabs,loss of appetite,dyspnea,fetopelvic disproportion,Stable
+Horse,anemia,scabs,loss of appetite,difficulty in breathing,colic,Stable
+Duck,hemorrhage,emaciation,fever,nasal discharge,ulcers,Recovered
+Cat,wasting,hairloss,loss of appetite,pneumonia,diarrhea,Stable
+Horse,jaundice,swelling,weakness,halitosis,colic,Stable
+Duck,hemorrhage,swelling,fatigue,pneumonia,ulcers,Recovered
+Lion,convulsions,swelling,weakness,halitosis,uteria inertia,Recovered
+Elephant,hemorrhage,ruffled feathers,fever,difficulty in breathing,colic,Critical
+Rabbit,hemorrhage,ruffled feathers,fever,dyspnea,colic,Critical
+Duck,seizures,scabs,fatigue,dyspnea,colic,Critical
+Buffaloes,seizures,alopecia,loss of appetite,nasal discharge,ulcers,Critical
+Dog,convulsions,hairloss,loss of appetite,difficulty in breathing,ulcers,Stable
+Cat,jaundice,ruffled feathers,fever,pneumonia,ulcers,Critical
+Buffaloes,anemia,swelling,fatigue,nasal discharge,ulcers,Stable
+Lion,hemorrhage,alopecia,fever,halitosis,uteria inertia,Stable
+Cat,convulsions,swelling,weakness,halitosis,diarrhea,Stable
+Pig,jaundice,scabs,weakness,difficulty in breathing,colic,Stable
+Lion,hemorrhage,ruffled feathers,pains,pneumonia,diarrhea,Stable
+Horse,convulsions,swelling,fever,difficulty in breathing,ulcers,Stable
+Goat,anemia,alopecia,fever,nasal discharge,ulcers,Stable
+Duck,convulsions,alopecia,fever,pneumonia,diarrhea,Recovered
+Lion,hemorrhage,hairloss,weakness,pneumonia,ulcers,Recovered
+Goat,wasting,hairloss,weakness,difficulty in breathing,diarrhea,Critical
+Lion,wasting,swelling,fever,halitosis,colic,Stable
+Cat,convulsions,alopecia,weakness,halitosis,uteria inertia,Recovered
+Elephant,convulsions,scabs,pains,nasal discharge,diarrhea,Stable
+Cow,wasting,swelling,fever,nasal discharge,diarrhea,Stable
+Sheep,anemia,swelling,fatigue,dyspnea,uteria inertia,Stable
+Cow,convulsions,swelling,loss of appetite,dyspnea,fetopelvic disproportion,Critical
+Rabbit,anemia,swelling,pains,difficulty in breathing,diarrhea,Stable
+Buffaloes,jaundice,scabs,pains,dyspnea,uteria inertia,Recovered
+Parrot,wasting,scabs,fatigue,nasal discharge,uteria inertia,Stable
+Rabbit,convulsions,scabs,loss of appetite,halitosis,uteria inertia,Recovered
+Parrot,convulsions,swelling,weakness,halitosis,fetopelvic disproportion,Critical
+Sheep,hemorrhage,scabs,weakness,nasal discharge,diarrhea,Recovered
+Cat,jaundice,alopecia,fatigue,nasal discharge,fetopelvic disproportion,Stable
+Duck,hemorrhage,hairloss,fatigue,halitosis,fetopelvic disproportion,Critical
+Dog,anemia,ruffled feathers,loss of appetite,difficulty in breathing,ulcers,Recovered
+Parrot,seizures,swelling,fatigue,dyspnea,fetopelvic disproportion,Recovered
+Cat,jaundice,hairloss,loss of appetite,halitosis,uteria inertia,Critical
+Goat,jaundice,alopecia,pains,pneumonia,uteria inertia,Recovered
+Goat,hemorrhage,hairloss,loss of appetite,nasal discharge,uteria inertia,Stable
+Parrot,seizures,hairloss,weakness,nasal discharge,ulcers,Stable
+Buffaloes,seizures,emaciation,weakness,difficulty in breathing,diarrhea,Stable
+Horse,convulsions,ruffled feathers,weakness,halitosis,uteria inertia,Critical
+Sheep,jaundice,swelling,loss of appetite,difficulty in breathing,diarrhea,Critical
+Cow,seizures,alopecia,fever,dyspnea,diarrhea,Recovered
+Elephant,jaundice,scabs,loss of appetite,dyspnea,colic,Recovered
+Cat,anemia,swelling,weakness,nasal discharge,diarrhea,Recovered
+Dog,seizures,swelling,pains,nasal discharge,uteria inertia,Critical
+Buffaloes,jaundice,emaciation,fatigue,difficulty in breathing,fetopelvic disproportion,Critical
+Parrot,seizures,emaciation,loss of appetite,dyspnea,uteria inertia,Recovered
+Goat,seizures,alopecia,loss of appetite,nasal discharge,uteria inertia,Stable
+Rabbit,hemorrhage,alopecia,loss of appetite,pneumonia,ulcers,Stable
+Goat,hemorrhage,ruffled feathers,pains,dyspnea,fetopelvic disproportion,Recovered
+Rabbit,convulsions,emaciation,fatigue,dyspnea,colic,Critical
+Duck,convulsions,emaciation,fatigue,dyspnea,colic,Recovered
+Lion,anemia,hairloss,fever,dyspnea,colic,Stable
+Parrot,wasting,hairloss,fatigue,pneumonia,diarrhea,Critical
+Duck,seizures,ruffled feathers,fatigue,dyspnea,uteria inertia,Critical
+Cat,anemia,swelling,loss of appetite,pneumonia,uteria inertia,Stable
+Parrot,convulsions,emaciation,fatigue,nasal discharge,colic,Stable
+Cow,wasting,ruffled feathers,pains,dyspnea,colic,Critical
+Pig,hemorrhage,scabs,loss of appetite,difficulty in breathing,colic,Critical
+Rabbit,convulsions,emaciation,loss of appetite,pneumonia,fetopelvic disproportion,Stable
+Lion,hemorrhage,ruffled feathers,pains,pneumonia,fetopelvic disproportion,Stable
+Dog,wasting,alopecia,loss of appetite,difficulty in breathing,uteria inertia,Recovered
+Goat,wasting,ruffled feathers,weakness,dyspnea,diarrhea,Stable
+Cat,jaundice,ruffled feathers,loss of appetite,dyspnea,fetopelvic disproportion,Stable
+Elephant,jaundice,scabs,fever,halitosis,ulcers,Recovered
+Horse,seizures,ruffled feathers,fever,pneumonia,uteria inertia,Critical
+Elephant,convulsions,emaciation,pains,pneumonia,ulcers,Critical
+Pig,anemia,ruffled feathers,weakness,nasal discharge,ulcers,Recovered
+Sheep,jaundice,hairloss,fatigue,nasal discharge,colic,Critical
+Lion,seizures,alopecia,weakness,halitosis,uteria inertia,Recovered
+Dog,convulsions,swelling,fatigue,dyspnea,uteria inertia,Recovered
+Horse,wasting,swelling,fever,dyspnea,uteria inertia,Critical
+Buffaloes,convulsions,ruffled feathers,weakness,dyspnea,colic,Recovered
+Lion,anemia,alopecia,pains,nasal discharge,uteria inertia,Stable
+Elephant,anemia,swelling,loss of appetite,nasal discharge,fetopelvic disproportion,Critical
+Rabbit,hemorrhage,ruffled feathers,fever,dyspnea,ulcers,Stable
+Horse,anemia,ruffled feathers,weakness,nasal discharge,diarrhea,Recovered
+Horse,convulsions,emaciation,fever,nasal discharge,colic,Critical
+Dog,anemia,emaciation,loss of appetite,nasal discharge,ulcers,Stable
+Dog,seizures,alopecia,fatigue,pneumonia,uteria inertia,Stable
+Rabbit,hemorrhage,emaciation,fever,dyspnea,uteria inertia,Recovered
+Sheep,seizures,emaciation,loss of appetite,nasal discharge,uteria inertia,Stable
+Lion,anemia,ruffled feathers,weakness,pneumonia,diarrhea,Recovered
+Buffaloes,wasting,ruffled feathers,weakness,nasal discharge,colic,Recovered
+Pig,jaundice,hairloss,loss of appetite,pneumonia,fetopelvic disproportion,Stable
+Buffaloes,convulsions,swelling,loss of appetite,halitosis,ulcers,Recovered
+Horse,anemia,alopecia,weakness,dyspnea,diarrhea,Recovered
+Horse,jaundice,emaciation,weakness,halitosis,colic,Critical
+Goat,seizures,ruffled feathers,fatigue,halitosis,fetopelvic disproportion,Critical
+Rabbit,jaundice,alopecia,loss of appetite,pneumonia,uteria inertia,Stable
+Buffaloes,seizures,scabs,fever,halitosis,diarrhea,Stable
+Duck,convulsions,emaciation,weakness,difficulty in breathing,diarrhea,Critical
+Goat,wasting,swelling,loss of appetite,nasal discharge,colic,Stable
+Lion,convulsions,swelling,loss of appetite,halitosis,ulcers,Stable
+Parrot,jaundice,hairloss,fever,difficulty in breathing,uteria inertia,Stable
+Elephant,jaundice,ruffled feathers,loss of appetite,dyspnea,uteria inertia,Recovered
+Cat,hemorrhage,alopecia,pains,pneumonia,fetopelvic disproportion,Recovered
+Lion,jaundice,alopecia,fatigue,halitosis,fetopelvic disproportion,Stable
+Sheep,seizures,swelling,fatigue,halitosis,ulcers,Stable
+Pig,seizures,emaciation,pains,halitosis,colic,Critical
+Pig,wasting,scabs,fatigue,pneumonia,ulcers,Critical
+Goat,wasting,alopecia,loss of appetite,difficulty in breathing,ulcers,Critical
+Parrot,wasting,scabs,pains,nasal discharge,colic,Critical
+Parrot,convulsions,ruffled feathers,fatigue,pneumonia,uteria inertia,Stable
+Cat,wasting,ruffled feathers,pains,difficulty in breathing,diarrhea,Critical
+Horse,hemorrhage,alopecia,fatigue,pneumonia,colic,Critical
+Pig,wasting,ruffled feathers,fever,nasal discharge,fetopelvic disproportion,Critical
+Cat,seizures,swelling,fever,nasal discharge,ulcers,Recovered
+Rabbit,hemorrhage,emaciation,loss of appetite,nasal discharge,uteria inertia,Stable
+Goat,anemia,emaciation,pains,dyspnea,colic,Recovered
+Elephant,convulsions,ruffled feathers,fever,pneumonia,colic,Stable
+Dog,wasting,emaciation,fatigue,dyspnea,ulcers,Stable
+Rabbit,hemorrhage,scabs,weakness,nasal discharge,fetopelvic disproportion,Stable
+Lion,convulsions,scabs,loss of appetite,halitosis,uteria inertia,Recovered
+Lion,anemia,ruffled feathers,fatigue,dyspnea,ulcers,Recovered
+Horse,hemorrhage,scabs,weakness,pneumonia,fetopelvic disproportion,Critical
+Goat,seizures,alopecia,loss of appetite,halitosis,fetopelvic disproportion,Recovered
+Elephant,wasting,scabs,fatigue,pneumonia,diarrhea,Critical
+Lion,anemia,swelling,weakness,nasal discharge,fetopelvic disproportion,Critical
+Cow,seizures,alopecia,pains,halitosis,diarrhea,Stable
+Duck,anemia,scabs,weakness,halitosis,fetopelvic disproportion,Recovered
+Lion,wasting,swelling,loss of appetite,nasal discharge,diarrhea,Recovered
+Pig,anemia,scabs,pains,difficulty in breathing,ulcers,Recovered
+Pig,hemorrhage,hairloss,weakness,pneumonia,ulcers,Recovered
+Cow,seizures,alopecia,fatigue,difficulty in breathing,ulcers,Recovered
+Rabbit,hemorrhage,alopecia,pains,difficulty in breathing,fetopelvic disproportion,Stable
+Goat,wasting,emaciation,fever,difficulty in breathing,fetopelvic disproportion,Recovered
+Dog,jaundice,emaciation,fatigue,halitosis,uteria inertia,Stable
+Buffaloes,jaundice,hairloss,weakness,halitosis,diarrhea,Stable
+Horse,jaundice,hairloss,pains,nasal discharge,diarrhea,Critical
+Rabbit,seizures,hairloss,fatigue,dyspnea,fetopelvic disproportion,Stable
+Rabbit,convulsions,emaciation,weakness,dyspnea,colic,Critical
+Duck,wasting,hairloss,fever,halitosis,fetopelvic disproportion,Stable
+Buffaloes,seizures,swelling,fatigue,nasal discharge,colic,Stable
+Goat,wasting,ruffled feathers,fever,dyspnea,diarrhea,Recovered
+Lion,hemorrhage,hairloss,weakness,halitosis,ulcers,Recovered
+Duck,hemorrhage,scabs,fatigue,halitosis,fetopelvic disproportion,Recovered
+Duck,anemia,scabs,fatigue,halitosis,diarrhea,Stable
+Sheep,wasting,emaciation,loss of appetite,difficulty in breathing,uteria inertia,Stable
+Goat,hemorrhage,emaciation,loss of appetite,nasal discharge,diarrhea,Recovered
+Lion,jaundice,emaciation,fever,nasal discharge,fetopelvic disproportion,Stable
+Pig,wasting,emaciation,fever,dyspnea,colic,Stable
+Sheep,convulsions,alopecia,pains,difficulty in breathing,fetopelvic disproportion,Recovered
+Lion,wasting,ruffled feathers,pains,dyspnea,diarrhea,Stable
+Parrot,jaundice,ruffled feathers,pains,pneumonia,diarrhea,Stable
+Elephant,jaundice,alopecia,weakness,halitosis,fetopelvic disproportion,Recovered
+Cow,wasting,swelling,pains,halitosis,ulcers,Critical
+Parrot,seizures,swelling,loss of appetite,difficulty in breathing,fetopelvic disproportion,Critical
+Parrot,wasting,hairloss,fever,difficulty in breathing,colic,Recovered
+Cat,seizures,scabs,fatigue,pneumonia,diarrhea,Stable
+Sheep,hemorrhage,swelling,fever,nasal discharge,ulcers,Critical
+Goat,anemia,scabs,fatigue,difficulty in breathing,uteria inertia,Stable
+Buffaloes,anemia,hairloss,fever,nasal discharge,colic,Critical
+Elephant,hemorrhage,hairloss,loss of appetite,dyspnea,diarrhea,Recovered
+Pig,convulsions,alopecia,fever,pneumonia,ulcers,Critical
+Elephant,jaundice,hairloss,weakness,halitosis,uteria inertia,Critical
+Buffaloes,seizures,hairloss,pains,pneumonia,fetopelvic disproportion,Recovered
+Goat,seizures,alopecia,fatigue,halitosis,uteria inertia,Stable
+Lion,hemorrhage,ruffled feathers,fever,nasal discharge,colic,Recovered
+Buffaloes,seizures,swelling,fatigue,difficulty in breathing,diarrhea,Stable
+Cow,wasting,alopecia,fatigue,dyspnea,ulcers,Recovered
+Cat,jaundice,ruffled feathers,pains,dyspnea,colic,Critical
+Duck,convulsions,scabs,fatigue,halitosis,ulcers,Stable
+Goat,jaundice,ruffled feathers,pains,nasal discharge,diarrhea,Stable
+Dog,hemorrhage,hairloss,weakness,difficulty in breathing,diarrhea,Stable
+Horse,convulsions,swelling,pains,halitosis,ulcers,Recovered
+Rabbit,wasting,emaciation,fever,difficulty in breathing,uteria inertia,Stable
+Rabbit,hemorrhage,ruffled feathers,fatigue,nasal discharge,diarrhea,Stable
+Parrot,seizures,swelling,loss of appetite,dyspnea,ulcers,Recovered
+Lion,seizures,emaciation,pains,halitosis,colic,Critical
+Duck,anemia,scabs,loss of appetite,nasal discharge,colic,Critical
+Goat,convulsions,alopecia,pains,pneumonia,fetopelvic disproportion,Recovered
+Pig,wasting,hairloss,loss of appetite,nasal discharge,diarrhea,Stable
+Goat,anemia,ruffled feathers,weakness,pneumonia,diarrhea,Critical
+Goat,hemorrhage,ruffled feathers,fatigue,halitosis,colic,Stable
+Duck,convulsions,alopecia,fever,pneumonia,colic,Stable
+Horse,wasting,alopecia,fever,pneumonia,ulcers,Recovered
+Pig,anemia,swelling,fatigue,dyspnea,uteria inertia,Stable
+Dog,wasting,ruffled feathers,weakness,dyspnea,colic,Recovered
+Goat,anemia,hairloss,fatigue,pneumonia,colic,Critical
+Duck,wasting,ruffled feathers,fatigue,halitosis,ulcers,Recovered
+Cat,anemia,scabs,loss of appetite,dyspnea,colic,Critical
+Sheep,hemorrhage,ruffled feathers,fever,difficulty in breathing,colic,Stable
+Goat,hemorrhage,scabs,fever,pneumonia,diarrhea,Critical
+Rabbit,convulsions,scabs,fatigue,pneumonia,ulcers,Critical
+Cat,jaundice,emaciation,pains,dyspnea,ulcers,Critical
+Dog,seizures,hairloss,weakness,nasal discharge,fetopelvic disproportion,Critical
+Goat,jaundice,swelling,fatigue,halitosis,fetopelvic disproportion,Recovered
+Rabbit,convulsions,alopecia,loss of appetite,pneumonia,ulcers,Stable
+Pig,hemorrhage,emaciation,fatigue,nasal discharge,diarrhea,Critical
+Goat,wasting,scabs,weakness,pneumonia,ulcers,Stable
+Lion,anemia,alopecia,weakness,dyspnea,diarrhea,Recovered
+Duck,convulsions,hairloss,fatigue,halitosis,diarrhea,Recovered
+Parrot,jaundice,hairloss,pains,pneumonia,uteria inertia,Recovered
+Duck,wasting,scabs,loss of appetite,difficulty in breathing,fetopelvic disproportion,Critical
+Goat,seizures,ruffled feathers,weakness,dyspnea,colic,Recovered
+Elephant,anemia,ruffled feathers,pains,halitosis,diarrhea,Stable
+Cow,anemia,alopecia,fever,halitosis,uteria inertia,Recovered
+Elephant,hemorrhage,scabs,weakness,difficulty in breathing,fetopelvic disproportion,Stable
+Elephant,seizures,swelling,fatigue,pneumonia,uteria inertia,Stable
+Dog,anemia,swelling,pains,pneumonia,diarrhea,Recovered
+Horse,wasting,hairloss,fever,dyspnea,uteria inertia,Stable
+Sheep,convulsions,swelling,pains,halitosis,ulcers,Critical
+Horse,hemorrhage,scabs,fever,pneumonia,uteria inertia,Stable
+Sheep,anemia,alopecia,fatigue,nasal discharge,diarrhea,Critical
+Cat,wasting,hairloss,fatigue,halitosis,fetopelvic disproportion,Critical
+Pig,convulsions,emaciation,weakness,difficulty in breathing,colic,Recovered
+Parrot,convulsions,alopecia,pains,nasal discharge,colic,Critical
+Sheep,convulsions,scabs,loss of appetite,dyspnea,diarrhea,Stable
+Elephant,anemia,scabs,weakness,nasal discharge,colic,Recovered
+Duck,convulsions,scabs,pains,difficulty in breathing,uteria inertia,Critical
+Cat,hemorrhage,emaciation,fatigue,dyspnea,colic,Stable
+Rabbit,convulsions,emaciation,fatigue,nasal discharge,fetopelvic disproportion,Recovered
+Parrot,wasting,scabs,weakness,difficulty in breathing,fetopelvic disproportion,Stable
+Elephant,anemia,ruffled feathers,fever,nasal discharge,fetopelvic disproportion,Critical
+Cat,jaundice,hairloss,fatigue,difficulty in breathing,colic,Recovered
+Rabbit,wasting,emaciation,pains,dyspnea,colic,Recovered
+Horse,jaundice,ruffled feathers,fever,halitosis,ulcers,Recovered
+Duck,anemia,ruffled feathers,weakness,nasal discharge,colic,Recovered
+Sheep,wasting,alopecia,pains,halitosis,fetopelvic disproportion,Recovered
+Elephant,convulsions,scabs,weakness,dyspnea,diarrhea,Critical
+Horse,jaundice,scabs,fatigue,nasal discharge,ulcers,Stable
+Sheep,jaundice,ruffled feathers,fatigue,dyspnea,uteria inertia,Critical
+Pig,hemorrhage,scabs,fatigue,halitosis,colic,Recovered
+Duck,anemia,swelling,fever,nasal discharge,colic,Critical
+Goat,seizures,ruffled feathers,loss of appetite,halitosis,fetopelvic disproportion,Critical
+Cow,anemia,emaciation,loss of appetite,halitosis,ulcers,Stable
+Buffaloes,convulsions,swelling,fatigue,dyspnea,fetopelvic disproportion,Critical
+Cat,seizures,hairloss,fatigue,pneumonia,ulcers,Stable
+Duck,jaundice,scabs,fatigue,nasal discharge,fetopelvic disproportion,Recovered
+Duck,convulsions,emaciation,loss of appetite,pneumonia,diarrhea,Stable
+Dog,seizures,swelling,pains,difficulty in breathing,diarrhea,Critical
+Goat,anemia,alopecia,fatigue,halitosis,colic,Critical
+Duck,wasting,emaciation,fever,pneumonia,fetopelvic disproportion,Critical
+Elephant,jaundice,hairloss,fatigue,halitosis,diarrhea,Critical
+Pig,convulsions,ruffled feathers,fever,pneumonia,colic,Recovered
+Lion,anemia,scabs,loss of appetite,pneumonia,fetopelvic disproportion,Critical
+Pig,convulsions,alopecia,fatigue,halitosis,uteria inertia,Stable
+Cat,convulsions,emaciation,fatigue,halitosis,uteria inertia,Critical
+Elephant,hemorrhage,swelling,pains,nasal discharge,colic,Stable
+Rabbit,jaundice,scabs,loss of appetite,dyspnea,fetopelvic disproportion,Recovered
+Pig,seizures,ruffled feathers,fever,difficulty in breathing,diarrhea,Critical
+Goat,jaundice,scabs,weakness,difficulty in breathing,uteria inertia,Stable
+Sheep,wasting,scabs,loss of appetite,difficulty in breathing,uteria inertia,Recovered
+Rabbit,jaundice,scabs,fatigue,halitosis,colic,Recovered
+Goat,jaundice,hairloss,fatigue,difficulty in breathing,diarrhea,Stable
+Sheep,seizures,hairloss,weakness,halitosis,fetopelvic disproportion,Stable
+Cat,seizures,scabs,fever,halitosis,colic,Stable
+Buffaloes,seizures,emaciation,loss of appetite,difficulty in breathing,uteria inertia,Recovered
+Buffaloes,wasting,ruffled feathers,pains,difficulty in breathing,fetopelvic disproportion,Stable
+Dog,wasting,swelling,weakness,halitosis,uteria inertia,Recovered
+Duck,hemorrhage,swelling,pains,pneumonia,colic,Stable
+Duck,wasting,scabs,loss of appetite,halitosis,uteria inertia,Stable
+Buffaloes,jaundice,swelling,loss of appetite,difficulty in breathing,colic,Critical
+Sheep,hemorrhage,hairloss,pains,difficulty in breathing,colic,Stable
+Horse,hemorrhage,ruffled feathers,fatigue,difficulty in breathing,fetopelvic disproportion,Stable
+Cow,seizures,alopecia,loss of appetite,difficulty in breathing,diarrhea,Critical
+Lion,anemia,hairloss,fatigue,dyspnea,fetopelvic disproportion,Critical
+Duck,hemorrhage,alopecia,fatigue,pneumonia,ulcers,Stable
+Dog,jaundice,scabs,pains,pneumonia,colic,Stable
+Sheep,hemorrhage,swelling,fatigue,pneumonia,colic,Recovered
+Cow,convulsions,scabs,fatigue,difficulty in breathing,ulcers,Stable
+Elephant,convulsions,ruffled feathers,weakness,dyspnea,fetopelvic disproportion,Recovered
+Cat,seizures,hairloss,pains,pneumonia,diarrhea,Critical
+Pig,seizures,alopecia,fever,halitosis,ulcers,Stable
+Goat,hemorrhage,swelling,pains,halitosis,colic,Critical
+Elephant,wasting,scabs,fever,pneumonia,uteria inertia,Stable
+Lion,wasting,ruffled feathers,loss of appetite,pneumonia,diarrhea,Critical
+Parrot,hemorrhage,alopecia,weakness,halitosis,ulcers,Stable
+Duck,wasting,scabs,fever,pneumonia,uteria inertia,Critical
+Cow,convulsions,ruffled feathers,weakness,dyspnea,diarrhea,Recovered
+Goat,anemia,ruffled feathers,fatigue,halitosis,ulcers,Critical
+Cat,hemorrhage,emaciation,weakness,halitosis,colic,Stable
+Goat,hemorrhage,emaciation,pains,difficulty in breathing,ulcers,Critical
+Parrot,wasting,hairloss,fatigue,pneumonia,uteria inertia,Recovered
+Buffaloes,anemia,ruffled feathers,fever,difficulty in breathing,diarrhea,Recovered
+Parrot,convulsions,hairloss,loss of appetite,dyspnea,ulcers,Recovered
+Buffaloes,convulsions,alopecia,pains,difficulty in breathing,uteria inertia,Stable
+Cat,wasting,hairloss,fatigue,difficulty in breathing,uteria inertia,Critical
+Sheep,hemorrhage,emaciation,pains,difficulty in breathing,uteria inertia,Critical
+Horse,anemia,emaciation,fatigue,pneumonia,diarrhea,Recovered
+Parrot,jaundice,emaciation,pains,nasal discharge,colic,Critical
+Sheep,seizures,swelling,pains,difficulty in breathing,diarrhea,Critical
+Pig,anemia,ruffled feathers,loss of appetite,dyspnea,uteria inertia,Recovered
+Parrot,wasting,scabs,weakness,dyspnea,diarrhea,Stable
+Cow,hemorrhage,ruffled feathers,fever,difficulty in breathing,ulcers,Recovered
+Elephant,jaundice,swelling,pains,difficulty in breathing,uteria inertia,Recovered
+Buffaloes,convulsions,emaciation,fatigue,pneumonia,fetopelvic disproportion,Stable
+Pig,seizures,hairloss,loss of appetite,nasal discharge,fetopelvic disproportion,Critical
+Lion,convulsions,emaciation,pains,nasal discharge,fetopelvic disproportion,Recovered
+Elephant,wasting,alopecia,weakness,pneumonia,uteria inertia,Stable
+Duck,anemia,emaciation,weakness,dyspnea,uteria inertia,Recovered
+Duck,wasting,hairloss,loss of appetite,nasal discharge,fetopelvic disproportion,Recovered
+Elephant,wasting,scabs,loss of appetite,halitosis,ulcers,Stable
+Rabbit,convulsions,alopecia,pains,pneumonia,ulcers,Critical
+Parrot,convulsions,ruffled feathers,pains,difficulty in breathing,ulcers,Stable
+Duck,jaundice,hairloss,pains,pneumonia,uteria inertia,Critical
+Cat,convulsions,hairloss,loss of appetite,nasal discharge,ulcers,Stable
+Goat,convulsions,emaciation,pains,nasal discharge,fetopelvic disproportion,Stable
+Cat,convulsions,swelling,weakness,halitosis,uteria inertia,Recovered
+Cow,seizures,alopecia,pains,nasal discharge,fetopelvic disproportion,Recovered
+Lion,hemorrhage,ruffled feathers,loss of appetite,dyspnea,uteria inertia,Stable
+Horse,jaundice,emaciation,pains,dyspnea,diarrhea,Critical
+Horse,wasting,scabs,pains,halitosis,colic,Recovered
+Buffaloes,seizures,alopecia,loss of appetite,pneumonia,diarrhea,Recovered
+Parrot,hemorrhage,ruffled feathers,loss of appetite,difficulty in breathing,ulcers,Stable
+Rabbit,anemia,swelling,pains,difficulty in breathing,diarrhea,Critical
+Rabbit,seizures,swelling,fatigue,nasal discharge,fetopelvic disproportion,Stable
+Buffaloes,wasting,ruffled feathers,loss of appetite,nasal discharge,diarrhea,Recovered
+Goat,seizures,emaciation,weakness,difficulty in breathing,diarrhea,Critical
+Duck,wasting,alopecia,fever,dyspnea,fetopelvic disproportion,Recovered
+Duck,seizures,emaciation,fatigue,dyspnea,fetopelvic disproportion,Recovered
+Buffaloes,wasting,scabs,loss of appetite,nasal discharge,colic,Recovered
+Buffaloes,seizures,alopecia,fatigue,halitosis,fetopelvic disproportion,Critical
+Lion,convulsions,swelling,weakness,pneumonia,fetopelvic disproportion,Critical
+Lion,wasting,alopecia,fatigue,dyspnea,fetopelvic disproportion,Critical
+Buffaloes,seizures,scabs,weakness,difficulty in breathing,diarrhea,Recovered
+Cow,convulsions,alopecia,weakness,dyspnea,uteria inertia,Stable
+Parrot,seizures,swelling,pains,pneumonia,diarrhea,Critical
+Horse,hemorrhage,scabs,fever,halitosis,diarrhea,Critical
+Rabbit,seizures,hairloss,pains,nasal discharge,colic,Stable
+Lion,anemia,alopecia,weakness,dyspnea,fetopelvic disproportion,Recovered
+Rabbit,hemorrhage,ruffled feathers,fatigue,nasal discharge,uteria inertia,Recovered
+Cow,seizures,ruffled feathers,loss of appetite,difficulty in breathing,diarrhea,Critical
+Dog,convulsions,ruffled feathers,fatigue,pneumonia,colic,Stable
+Horse,seizures,emaciation,fever,nasal discharge,ulcers,Recovered
+Parrot,jaundice,hairloss,fatigue,nasal discharge,colic,Stable
+Cat,anemia,hairloss,fever,halitosis,uteria inertia,Stable
+Lion,convulsions,hairloss,loss of appetite,halitosis,fetopelvic disproportion,Stable
+Elephant,seizures,swelling,pains,nasal discharge,colic,Critical
+Elephant,anemia,alopecia,loss of appetite,nasal discharge,diarrhea,Recovered
+Cow,jaundice,emaciation,pains,dyspnea,uteria inertia,Recovered
+Dog,convulsions,emaciation,fatigue,nasal discharge,uteria inertia,Stable
+Horse,anemia,hairloss,loss of appetite,difficulty in breathing,ulcers,Recovered
+Lion,hemorrhage,alopecia,weakness,difficulty in breathing,diarrhea,Recovered
+Duck,seizures,hairloss,pains,pneumonia,ulcers,Recovered
+Elephant,hemorrhage,alopecia,weakness,nasal discharge,diarrhea,Recovered
+Parrot,anemia,alopecia,fever,halitosis,uteria inertia,Stable
+Goat,seizures,swelling,fever,nasal discharge,ulcers,Stable
+Horse,wasting,swelling,pains,halitosis,diarrhea,Stable
+Buffaloes,seizures,alopecia,weakness,difficulty in breathing,diarrhea,Stable
+Dog,jaundice,swelling,weakness,halitosis,colic,Critical
+Horse,jaundice,swelling,fatigue,pneumonia,diarrhea,Critical
+Elephant,anemia,swelling,pains,pneumonia,uteria inertia,Critical
+Sheep,hemorrhage,hairloss,pains,halitosis,colic,Recovered
+Rabbit,seizures,emaciation,fatigue,dyspnea,colic,Stable
+Dog,seizures,ruffled feathers,fatigue,dyspnea,fetopelvic disproportion,Recovered
+Elephant,hemorrhage,emaciation,fever,pneumonia,colic,Critical
+Cat,hemorrhage,emaciation,weakness,nasal discharge,uteria inertia,Critical
+Parrot,convulsions,emaciation,loss of appetite,nasal discharge,diarrhea,Recovered
+Horse,convulsions,emaciation,loss of appetite,nasal discharge,diarrhea,Stable
+Dog,hemorrhage,ruffled feathers,pains,halitosis,diarrhea,Recovered
+Cat,anemia,swelling,fever,halitosis,ulcers,Critical
+Dog,wasting,alopecia,weakness,dyspnea,ulcers,Stable
+Goat,hemorrhage,hairloss,weakness,nasal discharge,diarrhea,Recovered
+Horse,wasting,ruffled feathers,weakness,halitosis,uteria inertia,Recovered
+Cat,jaundice,scabs,loss of appetite,dyspnea,fetopelvic disproportion,Recovered
+Dog,jaundice,alopecia,pains,halitosis,colic,Stable
+Elephant,wasting,alopecia,fatigue,halitosis,uteria inertia,Critical
+Cow,hemorrhage,scabs,fever,difficulty in breathing,fetopelvic disproportion,Critical
+Elephant,jaundice,hairloss,pains,dyspnea,diarrhea,Stable
+Sheep,seizures,ruffled feathers,fever,halitosis,uteria inertia,Stable
+Elephant,jaundice,ruffled feathers,weakness,dyspnea,ulcers,Stable
+Sheep,hemorrhage,hairloss,pains,pneumonia,diarrhea,Critical
+Elephant,convulsions,swelling,pains,difficulty in breathing,diarrhea,Recovered
+Sheep,convulsions,emaciation,fever,dyspnea,colic,Recovered
+Elephant,convulsions,scabs,weakness,nasal discharge,diarrhea,Critical
+Horse,wasting,emaciation,fever,difficulty in breathing,diarrhea,Stable
+Dog,anemia,alopecia,pains,difficulty in breathing,fetopelvic disproportion,Recovered
+Horse,wasting,scabs,loss of appetite,pneumonia,fetopelvic disproportion,Stable
+Elephant,jaundice,scabs,fatigue,pneumonia,uteria inertia,Critical
+Horse,hemorrhage,scabs,pains,halitosis,colic,Critical
+Duck,seizures,hairloss,fever,dyspnea,uteria inertia,Critical
+Elephant,jaundice,scabs,pains,pneumonia,uteria inertia,Stable
+Pig,hemorrhage,hairloss,loss of appetite,halitosis,diarrhea,Stable
+Cow,seizures,swelling,fatigue,nasal discharge,diarrhea,Recovered
+Elephant,wasting,alopecia,fatigue,dyspnea,fetopelvic disproportion,Recovered
+Duck,hemorrhage,scabs,weakness,dyspnea,colic,Critical
+Dog,hemorrhage,scabs,pains,nasal discharge,colic,Recovered
+Goat,seizures,alopecia,loss of appetite,pneumonia,diarrhea,Critical
+Elephant,hemorrhage,scabs,fever,halitosis,fetopelvic disproportion,Recovered
+Horse,jaundice,scabs,pains,halitosis,fetopelvic disproportion,Stable
+Duck,wasting,ruffled feathers,fever,nasal discharge,fetopelvic disproportion,Critical
+Duck,wasting,scabs,pains,halitosis,diarrhea,Critical
+Parrot,convulsions,alopecia,fever,pneumonia,diarrhea,Critical
+Sheep,wasting,swelling,fever,dyspnea,fetopelvic disproportion,Critical
+Pig,convulsions,emaciation,loss of appetite,halitosis,fetopelvic disproportion,Recovered
+Sheep,anemia,alopecia,fatigue,halitosis,uteria inertia,Recovered
+Cow,convulsions,emaciation,fever,halitosis,uteria inertia,Critical
+Cow,wasting,alopecia,fever,nasal discharge,diarrhea,Stable
+Sheep,seizures,alopecia,fever,nasal discharge,uteria inertia,Critical
+Duck,anemia,swelling,fever,pneumonia,diarrhea,Recovered
+Buffaloes,seizures,hairloss,fever,difficulty in breathing,diarrhea,Stable
+Duck,anemia,alopecia,loss of appetite,dyspnea,diarrhea,Stable
+Sheep,jaundice,scabs,weakness,halitosis,fetopelvic disproportion,Critical
+Duck,hemorrhage,swelling,pains,nasal discharge,ulcers,Stable
+Sheep,anemia,emaciation,pains,dyspnea,uteria inertia,Recovered
+Lion,seizures,scabs,weakness,dyspnea,ulcers,Critical
+Goat,wasting,scabs,fatigue,halitosis,fetopelvic disproportion,Stable
+Parrot,jaundice,hairloss,weakness,dyspnea,ulcers,Critical
+Buffaloes,wasting,alopecia,pains,difficulty in breathing,fetopelvic disproportion,Stable
+Cat,wasting,ruffled feathers,pains,nasal discharge,uteria inertia,Stable
+Elephant,anemia,emaciation,fatigue,dyspnea,uteria inertia,Critical
+Rabbit,anemia,alopecia,loss of appetite,halitosis,fetopelvic disproportion,Stable
+Parrot,wasting,alopecia,fever,difficulty in breathing,uteria inertia,Stable
+Cow,wasting,hairloss,pains,pneumonia,uteria inertia,Recovered
+Lion,convulsions,alopecia,weakness,dyspnea,ulcers,Critical
+Duck,jaundice,swelling,weakness,pneumonia,diarrhea,Recovered
+Cat,wasting,alopecia,fatigue,nasal discharge,ulcers,Recovered
+Buffaloes,anemia,scabs,fever,halitosis,colic,Critical
+Pig,jaundice,ruffled feathers,loss of appetite,dyspnea,colic,Recovered
+Lion,convulsions,emaciation,pains,dyspnea,diarrhea,Recovered
+Elephant,seizures,ruffled feathers,fatigue,dyspnea,ulcers,Recovered
+Cat,hemorrhage,scabs,pains,pneumonia,fetopelvic disproportion,Stable
+Dog,convulsions,swelling,pains,nasal discharge,fetopelvic disproportion,Recovered
+Cow,wasting,hairloss,loss of appetite,halitosis,uteria inertia,Stable
+Goat,jaundice,swelling,pains,nasal discharge,colic,Critical
+Parrot,convulsions,swelling,weakness,dyspnea,colic,Critical
+Horse,hemorrhage,alopecia,fever,dyspnea,ulcers,Stable
+Horse,seizures,emaciation,weakness,difficulty in breathing,ulcers,Critical
+Lion,convulsions,swelling,weakness,dyspnea,uteria inertia,Stable
+Pig,anemia,ruffled feathers,fever,dyspnea,uteria inertia,Stable
+Cow,hemorrhage,ruffled feathers,weakness,dyspnea,colic,Recovered
+Pig,seizures,hairloss,loss of appetite,halitosis,ulcers,Critical
+Goat,convulsions,ruffled feathers,fever,pneumonia,ulcers,Recovered
+Parrot,jaundice,hairloss,weakness,halitosis,fetopelvic disproportion,Stable
+Cow,wasting,swelling,fatigue,halitosis,colic,Recovered
+Cat,seizures,swelling,weakness,difficulty in breathing,ulcers,Critical
+Horse,wasting,alopecia,loss of appetite,dyspnea,ulcers,Stable
+Dog,anemia,alopecia,fatigue,dyspnea,diarrhea,Stable
+Horse,hemorrhage,emaciation,pains,dyspnea,uteria inertia,Recovered
+Cat,wasting,scabs,weakness,difficulty in breathing,uteria inertia,Critical
+Elephant,anemia,scabs,fatigue,halitosis,fetopelvic disproportion,Stable
+Duck,seizures,scabs,loss of appetite,nasal discharge,uteria inertia,Stable
+Duck,convulsions,alopecia,fatigue,difficulty in breathing,diarrhea,Recovered
+Horse,anemia,scabs,weakness,dyspnea,diarrhea,Stable
+Rabbit,hemorrhage,hairloss,pains,difficulty in breathing,ulcers,Recovered
+Cat,convulsions,alopecia,pains,halitosis,fetopelvic disproportion,Stable
+Buffaloes,seizures,scabs,loss of appetite,pneumonia,ulcers,Critical
+Rabbit,seizures,scabs,pains,difficulty in breathing,fetopelvic disproportion,Stable
+Lion,wasting,swelling,fatigue,dyspnea,colic,Critical
+Sheep,wasting,alopecia,fatigue,pneumonia,fetopelvic disproportion,Recovered
+Dog,jaundice,alopecia,loss of appetite,difficulty in breathing,ulcers,Critical
+Elephant,convulsions,hairloss,fatigue,halitosis,fetopelvic disproportion,Recovered
+Cow,convulsions,hairloss,weakness,nasal discharge,uteria inertia,Recovered
+Parrot,seizures,scabs,fever,dyspnea,uteria inertia,Critical
+Duck,jaundice,hairloss,fatigue,nasal discharge,ulcers,Recovered
+Elephant,anemia,ruffled feathers,fever,dyspnea,ulcers,Stable
+Elephant,anemia,scabs,weakness,dyspnea,ulcers,Critical
+Cat,convulsions,emaciation,pains,dyspnea,colic,Critical
+Buffaloes,seizures,hairloss,loss of appetite,halitosis,colic,Stable
+Sheep,anemia,ruffled feathers,weakness,halitosis,uteria inertia,Stable
+Pig,hemorrhage,swelling,weakness,pneumonia,diarrhea,Critical
+Elephant,seizures,emaciation,fatigue,halitosis,fetopelvic disproportion,Stable
+Cow,anemia,emaciation,fatigue,halitosis,fetopelvic disproportion,Recovered
+Parrot,seizures,swelling,weakness,halitosis,colic,Recovered
+Elephant,anemia,hairloss,fatigue,pneumonia,ulcers,Critical
+Pig,anemia,hairloss,fever,halitosis,diarrhea,Stable
+Duck,anemia,emaciation,fatigue,nasal discharge,diarrhea,Critical
+Duck,convulsions,ruffled feathers,pains,pneumonia,ulcers,Stable
+Rabbit,wasting,alopecia,weakness,halitosis,fetopelvic disproportion,Recovered
+Lion,jaundice,alopecia,pains,halitosis,fetopelvic disproportion,Recovered
+Goat,jaundice,ruffled feathers,pains,pneumonia,fetopelvic disproportion,Recovered
+Elephant,hemorrhage,ruffled feathers,weakness,nasal discharge,uteria inertia,Critical
+Lion,seizures,alopecia,fatigue,dyspnea,colic,Critical
+Parrot,jaundice,alopecia,loss of appetite,nasal discharge,ulcers,Recovered
+Rabbit,anemia,emaciation,fever,difficulty in breathing,ulcers,Critical
+Buffaloes,hemorrhage,ruffled feathers,pains,pneumonia,fetopelvic disproportion,Recovered
+Cow,anemia,emaciation,fever,nasal discharge,ulcers,Stable
+Dog,anemia,ruffled feathers,fatigue,difficulty in breathing,fetopelvic disproportion,Recovered
+Buffaloes,anemia,hairloss,pains,dyspnea,uteria inertia,Recovered
+Buffaloes,jaundice,swelling,fever,difficulty in breathing,fetopelvic disproportion,Stable
+Goat,anemia,emaciation,weakness,pneumonia,diarrhea,Critical
+Horse,anemia,emaciation,fever,halitosis,diarrhea,Critical
+Cat,anemia,emaciation,loss of appetite,dyspnea,uteria inertia,Recovered
+Cow,seizures,alopecia,loss of appetite,halitosis,colic,Critical
+Goat,wasting,scabs,fatigue,dyspnea,fetopelvic disproportion,Recovered
+Cow,wasting,emaciation,weakness,nasal discharge,colic,Stable
+Buffaloes,convulsions,ruffled feathers,fever,difficulty in breathing,fetopelvic disproportion,Recovered
+Duck,anemia,scabs,pains,dyspnea,fetopelvic disproportion,Stable
+Parrot,convulsions,ruffled feathers,fatigue,dyspnea,colic,Critical
+Elephant,convulsions,alopecia,pains,nasal discharge,ulcers,Stable
+Cat,anemia,emaciation,pains,nasal discharge,uteria inertia,Critical
+Sheep,convulsions,emaciation,fatigue,difficulty in breathing,ulcers,Critical
+Duck,jaundice,ruffled feathers,pains,pneumonia,fetopelvic disproportion,Recovered
+Lion,anemia,emaciation,fatigue,difficulty in breathing,fetopelvic disproportion,Critical
+Parrot,wasting,ruffled feathers,fever,nasal discharge,diarrhea,Critical
+Parrot,convulsions,emaciation,fever,pneumonia,diarrhea,Critical
+Duck,wasting,emaciation,fever,difficulty in breathing,ulcers,Stable
+Buffaloes,wasting,scabs,weakness,nasal discharge,uteria inertia,Critical
+Elephant,anemia,ruffled feathers,fever,difficulty in breathing,fetopelvic disproportion,Stable
+Dog,seizures,swelling,loss of appetite,difficulty in breathing,diarrhea,Stable
+Pig,seizures,scabs,fatigue,dyspnea,diarrhea,Recovered
+Elephant,wasting,alopecia,pains,pneumonia,colic,Critical
+Elephant,jaundice,swelling,fatigue,dyspnea,uteria inertia,Stable
+Parrot,convulsions,hairloss,fatigue,pneumonia,colic,Recovered
+Goat,jaundice,alopecia,pains,dyspnea,diarrhea,Stable
+Horse,convulsions,alopecia,pains,difficulty in breathing,ulcers,Critical
+Duck,convulsions,hairloss,fatigue,difficulty in breathing,diarrhea,Stable
+Buffaloes,hemorrhage,ruffled feathers,loss of appetite,halitosis,colic,Critical
+Lion,convulsions,hairloss,fatigue,halitosis,ulcers,Stable
+Cat,seizures,hairloss,fever,difficulty in breathing,colic,Stable
+Duck,anemia,swelling,pains,dyspnea,diarrhea,Stable
+Cow,wasting,emaciation,fatigue,pneumonia,diarrhea,Recovered
+Rabbit,hemorrhage,hairloss,fever,pneumonia,colic,Recovered
+Lion,convulsions,alopecia,loss of appetite,dyspnea,uteria inertia,Stable
+Cow,wasting,scabs,fever,dyspnea,fetopelvic disproportion,Stable
+Rabbit,wasting,alopecia,fatigue,nasal discharge,uteria inertia,Recovered
+Goat,seizures,alopecia,weakness,dyspnea,colic,Critical
+Duck,hemorrhage,swelling,fever,dyspnea,uteria inertia,Critical
+Lion,convulsions,swelling,loss of appetite,pneumonia,ulcers,Stable
+Elephant,seizures,alopecia,fever,dyspnea,fetopelvic disproportion,Stable
+Horse,convulsions,alopecia,pains,difficulty in breathing,fetopelvic disproportion,Stable
+Dog,wasting,hairloss,pains,difficulty in breathing,ulcers,Critical
+Rabbit,hemorrhage,ruffled feathers,weakness,pneumonia,ulcers,Stable
+Elephant,convulsions,emaciation,fever,nasal discharge,uteria inertia,Critical
+Parrot,seizures,swelling,loss of appetite,pneumonia,uteria inertia,Critical
+Cow,wasting,hairloss,fever,pneumonia,uteria inertia,Critical
+Duck,anemia,scabs,weakness,nasal discharge,fetopelvic disproportion,Critical
+Dog,seizures,swelling,weakness,dyspnea,uteria inertia,Stable
+Horse,jaundice,alopecia,weakness,halitosis,fetopelvic disproportion,Stable
+Lion,convulsions,ruffled feathers,pains,dyspnea,fetopelvic disproportion,Recovered
+Rabbit,seizures,hairloss,fever,pneumonia,uteria inertia,Stable
+Buffaloes,jaundice,scabs,pains,halitosis,colic,Stable
+Rabbit,jaundice,emaciation,loss of appetite,halitosis,ulcers,Recovered
+Rabbit,hemorrhage,ruffled feathers,loss of appetite,dyspnea,colic,Recovered
+Goat,wasting,swelling,weakness,difficulty in breathing,colic,Critical
+Rabbit,convulsions,swelling,weakness,nasal discharge,ulcers,Stable
+Cat,convulsions,alopecia,fatigue,difficulty in breathing,ulcers,Recovered
+Rabbit,wasting,hairloss,weakness,nasal discharge,fetopelvic disproportion,Critical
+Duck,jaundice,swelling,fatigue,pneumonia,fetopelvic disproportion,Recovered
+Dog,anemia,hairloss,fatigue,nasal discharge,uteria inertia,Stable
+Buffaloes,seizures,swelling,loss of appetite,dyspnea,fetopelvic disproportion,Stable
+Goat,seizures,ruffled feathers,fatigue,difficulty in breathing,colic,Recovered
+Horse,seizures,alopecia,pains,nasal discharge,colic,Stable
+Sheep,anemia,ruffled feathers,loss of appetite,pneumonia,ulcers,Recovered
+Horse,jaundice,ruffled feathers,loss of appetite,pneumonia,colic,Recovered
+Pig,convulsions,swelling,weakness,pneumonia,uteria inertia,Stable
+Dog,wasting,emaciation,loss of appetite,pneumonia,diarrhea,Stable
+Horse,anemia,swelling,fever,pneumonia,colic,Recovered
+Rabbit,hemorrhage,scabs,fatigue,pneumonia,uteria inertia,Recovered
+Buffaloes,seizures,hairloss,pains,difficulty in breathing,diarrhea,Recovered
+Buffaloes,seizures,alopecia,weakness,difficulty in breathing,fetopelvic disproportion,Stable
+Rabbit,seizures,alopecia,weakness,pneumonia,uteria inertia,Stable
+Horse,jaundice,hairloss,weakness,nasal discharge,colic,Recovered
+Duck,convulsions,scabs,fatigue,difficulty in breathing,uteria inertia,Recovered
+Goat,anemia,swelling,fatigue,halitosis,fetopelvic disproportion,Recovered
+Cat,anemia,emaciation,fever,nasal discharge,diarrhea,Stable
+Duck,convulsions,emaciation,pains,pneumonia,uteria inertia,Stable
+Duck,wasting,alopecia,weakness,nasal discharge,diarrhea,Critical
+Horse,seizures,emaciation,weakness,nasal discharge,ulcers,Critical
+Cow,seizures,swelling,pains,halitosis,colic,Critical
+Cat,hemorrhage,emaciation,weakness,halitosis,diarrhea,Recovered
+Dog,jaundice,alopecia,pains,pneumonia,diarrhea,Recovered
+Sheep,seizures,scabs,pains,dyspnea,uteria inertia,Stable
+Rabbit,convulsions,hairloss,weakness,difficulty in breathing,colic,Stable
+Horse,convulsions,emaciation,weakness,halitosis,uteria inertia,Recovered
+Parrot,seizures,ruffled feathers,weakness,halitosis,fetopelvic disproportion,Stable
+Cow,hemorrhage,emaciation,loss of appetite,difficulty in breathing,diarrhea,Recovered
+Cat,jaundice,emaciation,weakness,difficulty in breathing,diarrhea,Stable
+Sheep,seizures,ruffled feathers,pains,pneumonia,diarrhea,Stable
+Parrot,hemorrhage,hairloss,fatigue,difficulty in breathing,ulcers,Critical
+Sheep,convulsions,ruffled feathers,weakness,pneumonia,diarrhea,Recovered
+Goat,convulsions,swelling,weakness,difficulty in breathing,diarrhea,Critical
+Dog,wasting,ruffled feathers,loss of appetite,difficulty in breathing,colic,Stable
+Rabbit,wasting,hairloss,weakness,pneumonia,fetopelvic disproportion,Stable
+Horse,seizures,hairloss,pains,difficulty in breathing,diarrhea,Stable
+Sheep,seizures,hairloss,fatigue,dyspnea,diarrhea,Stable
+Rabbit,jaundice,scabs,pains,halitosis,ulcers,Critical
+Parrot,wasting,hairloss,pains,dyspnea,diarrhea,Stable
+Cow,convulsions,scabs,loss of appetite,nasal discharge,colic,Stable
+Cat,anemia,ruffled feathers,loss of appetite,difficulty in breathing,colic,Recovered
+Goat,convulsions,emaciation,weakness,halitosis,ulcers,Recovered
+Duck,jaundice,emaciation,fatigue,pneumonia,diarrhea,Recovered
+Dog,convulsions,alopecia,fatigue,pneumonia,fetopelvic disproportion,Stable
+Dog,convulsions,alopecia,weakness,nasal discharge,fetopelvic disproportion,Critical
+Duck,hemorrhage,alopecia,fever,difficulty in breathing,ulcers,Critical
+Elephant,convulsions,swelling,fatigue,nasal discharge,colic,Recovered
+Elephant,anemia,swelling,pains,difficulty in breathing,uteria inertia,Stable
+Elephant,hemorrhage,hairloss,loss of appetite,difficulty in breathing,ulcers,Recovered
+Elephant,jaundice,ruffled feathers,loss of appetite,halitosis,colic,Stable
+Rabbit,wasting,alopecia,weakness,difficulty in breathing,colic,Critical
+Horse,hemorrhage,swelling,fever,dyspnea,uteria inertia,Stable
+Horse,jaundice,swelling,pains,pneumonia,fetopelvic disproportion,Critical
+Elephant,convulsions,alopecia,fatigue,halitosis,uteria inertia,Critical
+Duck,hemorrhage,ruffled feathers,fatigue,halitosis,diarrhea,Recovered
+Elephant,convulsions,swelling,fatigue,difficulty in breathing,ulcers,Critical
+Pig,wasting,swelling,loss of appetite,dyspnea,uteria inertia,Stable
+Duck,hemorrhage,scabs,loss of appetite,nasal discharge,diarrhea,Recovered
+Rabbit,anemia,scabs,pains,halitosis,ulcers,Stable
+Buffaloes,wasting,swelling,fatigue,pneumonia,uteria inertia,Recovered
+Elephant,hemorrhage,hairloss,pains,nasal discharge,colic,Stable
+Sheep,convulsions,alopecia,fatigue,pneumonia,diarrhea,Critical
+Dog,jaundice,hairloss,weakness,pneumonia,colic,Critical
+Buffaloes,anemia,ruffled feathers,pains,dyspnea,ulcers,Critical
+Sheep,jaundice,emaciation,loss of appetite,halitosis,colic,Recovered
+Lion,wasting,alopecia,fever,pneumonia,ulcers,Critical
+Duck,convulsions,ruffled feathers,pains,nasal discharge,fetopelvic disproportion,Critical
+Lion,seizures,ruffled feathers,fatigue,dyspnea,ulcers,Stable
+Parrot,hemorrhage,emaciation,fever,difficulty in breathing,colic,Stable
+Sheep,hemorrhage,swelling,fever,nasal discharge,uteria inertia,Stable
+Horse,anemia,emaciation,weakness,dyspnea,colic,Critical
+Cat,anemia,scabs,fatigue,nasal discharge,ulcers,Stable
+Goat,anemia,scabs,loss of appetite,pneumonia,colic,Critical
+Sheep,seizures,emaciation,fever,dyspnea,uteria inertia,Critical
+Parrot,convulsions,swelling,fever,dyspnea,uteria inertia,Recovered
+Parrot,wasting,swelling,loss of appetite,difficulty in breathing,diarrhea,Critical
+Cow,convulsions,emaciation,loss of appetite,halitosis,colic,Recovered
+Lion,wasting,scabs,fever,halitosis,diarrhea,Stable
+Elephant,seizures,scabs,fever,halitosis,colic,Recovered
+Goat,convulsions,alopecia,fever,difficulty in breathing,fetopelvic disproportion,Recovered
+Dog,seizures,hairloss,weakness,nasal discharge,ulcers,Critical
+Lion,seizures,emaciation,fever,pneumonia,fetopelvic disproportion,Stable
+Lion,wasting,hairloss,fever,pneumonia,diarrhea,Recovered
+Sheep,jaundice,scabs,fever,nasal discharge,diarrhea,Recovered
+Parrot,wasting,hairloss,loss of appetite,difficulty in breathing,colic,Critical
+Cow,anemia,emaciation,weakness,difficulty in breathing,uteria inertia,Recovered
+Duck,jaundice,swelling,fatigue,pneumonia,diarrhea,Stable
+Buffaloes,convulsions,alopecia,fever,pneumonia,ulcers,Stable
+Lion,convulsions,scabs,pains,nasal discharge,fetopelvic disproportion,Critical
+Cow,convulsions,scabs,fatigue,nasal discharge,colic,Critical
+Parrot,wasting,alopecia,weakness,dyspnea,uteria inertia,Recovered
+Cow,hemorrhage,emaciation,fever,nasal discharge,fetopelvic disproportion,Critical
+Cow,wasting,scabs,pains,dyspnea,diarrhea,Recovered
+Lion,wasting,swelling,fatigue,pneumonia,ulcers,Recovered
+Dog,anemia,emaciation,weakness,nasal discharge,colic,Stable
+Horse,hemorrhage,alopecia,weakness,pneumonia,uteria inertia,Recovered
+Cat,jaundice,emaciation,fever,nasal discharge,diarrhea,Critical
+Pig,jaundice,scabs,loss of appetite,halitosis,uteria inertia,Critical
+Horse,convulsions,swelling,loss of appetite,pneumonia,diarrhea,Stable
+Duck,seizures,alopecia,pains,dyspnea,fetopelvic disproportion,Critical
+Cow,wasting,alopecia,fever,nasal discharge,fetopelvic disproportion,Recovered
+Cat,wasting,alopecia,fever,nasal discharge,uteria inertia,Recovered
+Buffaloes,hemorrhage,swelling,fever,halitosis,colic,Recovered
+Cat,seizures,hairloss,fever,halitosis,ulcers,Recovered
+Duck,hemorrhage,ruffled feathers,weakness,halitosis,ulcers,Stable
+Sheep,hemorrhage,scabs,fatigue,nasal discharge,diarrhea,Recovered
+Buffaloes,hemorrhage,alopecia,loss of appetite,pneumonia,ulcers,Recovered
+Goat,jaundice,swelling,fever,dyspnea,colic,Recovered
+Cow,convulsions,alopecia,weakness,dyspnea,colic,Stable
+Cat,jaundice,hairloss,fever,nasal discharge,diarrhea,Critical
+Cow,seizures,alopecia,pains,nasal discharge,fetopelvic disproportion,Critical
+Sheep,seizures,emaciation,fever,dyspnea,ulcers,Critical
+Cat,hemorrhage,ruffled feathers,weakness,dyspnea,fetopelvic disproportion,Stable
+Cow,hemorrhage,hairloss,pains,halitosis,colic,Critical
+Cow,jaundice,scabs,fever,halitosis,uteria inertia,Recovered
+Elephant,seizures,swelling,pains,dyspnea,fetopelvic disproportion,Recovered
+Duck,jaundice,emaciation,fever,difficulty in breathing,colic,Stable
+Duck,convulsions,alopecia,loss of appetite,halitosis,uteria inertia,Stable
+Cat,convulsions,ruffled feathers,loss of appetite,difficulty in breathing,ulcers,Critical
+Cow,seizures,scabs,fatigue,dyspnea,fetopelvic disproportion,Recovered
+Lion,anemia,alopecia,loss of appetite,halitosis,uteria inertia,Recovered
+Rabbit,hemorrhage,emaciation,fatigue,halitosis,uteria inertia,Recovered
+Sheep,hemorrhage,hairloss,weakness,difficulty in breathing,uteria inertia,Stable
+Lion,jaundice,hairloss,fever,difficulty in breathing,ulcers,Stable
+Horse,wasting,swelling,fever,dyspnea,uteria inertia,Stable
+Lion,hemorrhage,ruffled feathers,pains,pneumonia,uteria inertia,Recovered
+Sheep,anemia,ruffled feathers,weakness,dyspnea,colic,Stable
+Lion,hemorrhage,alopecia,loss of appetite,dyspnea,uteria inertia,Recovered
+Parrot,wasting,ruffled feathers,pains,dyspnea,colic,Recovered
+Cat,anemia,ruffled feathers,fever,nasal discharge,colic,Recovered
+Goat,jaundice,hairloss,weakness,halitosis,diarrhea,Stable
+Elephant,anemia,ruffled feathers,fatigue,nasal discharge,diarrhea,Critical
+Buffaloes,seizures,scabs,pains,dyspnea,fetopelvic disproportion,Recovered
+Sheep,jaundice,alopecia,weakness,dyspnea,colic,Recovered
+Cat,convulsions,emaciation,weakness,pneumonia,fetopelvic disproportion,Recovered
+Parrot,wasting,scabs,pains,halitosis,uteria inertia,Critical
+Buffaloes,jaundice,swelling,pains,dyspnea,ulcers,Critical
+Cow,hemorrhage,scabs,fever,nasal discharge,uteria inertia,Stable
+Cat,jaundice,alopecia,loss of appetite,nasal discharge,colic,Stable
+Lion,jaundice,emaciation,fever,nasal discharge,uteria inertia,Stable
+Duck,jaundice,swelling,loss of appetite,difficulty in breathing,diarrhea,Stable
+Horse,hemorrhage,hairloss,pains,nasal discharge,colic,Recovered
+Cow,wasting,scabs,fatigue,difficulty in breathing,uteria inertia,Recovered
+Sheep,seizures,hairloss,loss of appetite,pneumonia,fetopelvic disproportion,Recovered
+Rabbit,anemia,swelling,fatigue,pneumonia,diarrhea,Stable
+Pig,jaundice,emaciation,weakness,pneumonia,colic,Critical
+Goat,hemorrhage,ruffled feathers,weakness,nasal discharge,fetopelvic disproportion,Stable
+Cat,jaundice,hairloss,loss of appetite,nasal discharge,ulcers,Critical
+Sheep,seizures,scabs,loss of appetite,pneumonia,diarrhea,Recovered
+Sheep,wasting,alopecia,weakness,halitosis,ulcers,Critical
+Lion,convulsions,alopecia,fever,dyspnea,colic,Recovered
+Sheep,wasting,swelling,loss of appetite,dyspnea,fetopelvic disproportion,Critical
+Buffaloes,anemia,swelling,fever,halitosis,colic,Stable
+Dog,convulsions,emaciation,fever,dyspnea,colic,Stable
+Horse,seizures,swelling,loss of appetite,dyspnea,diarrhea,Critical
+Rabbit,seizures,emaciation,pains,difficulty in breathing,uteria inertia,Recovered
+Cow,hemorrhage,hairloss,loss of appetite,difficulty in breathing,colic,Recovered
+Lion,hemorrhage,scabs,fatigue,dyspnea,colic,Stable
+Horse,convulsions,hairloss,fatigue,dyspnea,colic,Critical
+Buffaloes,wasting,ruffled feathers,loss of appetite,dyspnea,diarrhea,Stable
+Sheep,wasting,hairloss,pains,difficulty in breathing,ulcers,Critical
+Duck,wasting,hairloss,fever,halitosis,colic,Recovered
+Rabbit,hemorrhage,hairloss,loss of appetite,nasal discharge,fetopelvic disproportion,Stable
+Lion,seizures,emaciation,fever,nasal discharge,uteria inertia,Stable
+Cat,anemia,hairloss,weakness,nasal discharge,diarrhea,Stable
+Lion,jaundice,swelling,fever,halitosis,diarrhea,Recovered
+Cow,wasting,alopecia,fever,dyspnea,uteria inertia,Recovered
+Buffaloes,wasting,alopecia,weakness,pneumonia,diarrhea,Critical
+Horse,wasting,emaciation,pains,nasal discharge,diarrhea,Recovered
+Cow,hemorrhage,ruffled feathers,loss of appetite,pneumonia,ulcers,Recovered
+Parrot,wasting,hairloss,fever,pneumonia,fetopelvic disproportion,Critical
+Sheep,wasting,hairloss,fever,pneumonia,colic,Critical
+Parrot,hemorrhage,hairloss,fatigue,nasal discharge,uteria inertia,Critical
+Cow,jaundice,emaciation,pains,halitosis,ulcers,Stable
+Duck,jaundice,ruffled feathers,weakness,pneumonia,ulcers,Critical
+Rabbit,wasting,hairloss,fatigue,halitosis,colic,Recovered
+Parrot,jaundice,ruffled feathers,pains,halitosis,uteria inertia,Stable
+Horse,hemorrhage,hairloss,loss of appetite,dyspnea,fetopelvic disproportion,Recovered
+Buffaloes,anemia,scabs,loss of appetite,pneumonia,colic,Recovered
+Goat,hemorrhage,swelling,fever,nasal discharge,fetopelvic disproportion,Stable
+Elephant,jaundice,emaciation,loss of appetite,difficulty in breathing,diarrhea,Critical
+Elephant,wasting,hairloss,weakness,dyspnea,fetopelvic disproportion,Recovered
+Duck,seizures,hairloss,weakness,halitosis,colic,Recovered
+Buffaloes,hemorrhage,emaciation,pains,dyspnea,fetopelvic disproportion,Critical
+Lion,jaundice,swelling,pains,pneumonia,fetopelvic disproportion,Critical
+Horse,hemorrhage,emaciation,pains,difficulty in breathing,fetopelvic disproportion,Stable
+Pig,convulsions,ruffled feathers,fever,dyspnea,colic,Critical
+Buffaloes,convulsions,ruffled feathers,fever,dyspnea,colic,Recovered
+Rabbit,convulsions,emaciation,fatigue,nasal discharge,fetopelvic disproportion,Critical
+Dog,hemorrhage,swelling,loss of appetite,halitosis,ulcers,Critical
+Cow,wasting,swelling,fatigue,difficulty in breathing,diarrhea,Stable
